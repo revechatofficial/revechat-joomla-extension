@@ -5,7 +5,7 @@
 		<description> REVE Chat is powerful and intuitive real-time customer engagement software.</description>
 		<element>pkg_revechat</element>
 		<type>package</type>
-		<version>1.0.0</version>
+		<version>2.0.0</version>
 		<client>site</client>
 		<infourl title="REVE Chat Extension">https://www.revechat.com/integrations/joomla/</infourl>
 		<downloads>
